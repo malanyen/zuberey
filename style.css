@@ -23,14 +23,6 @@ p {
   line-height: 1.67;
 }
 
-a:link, a:visited {
-  text-decoration: underline;
-  color: white;
-}
-a:hover {
-  color: #1ABC9Cf;
-}
-
 .bg {
   -webkit-animation-duration: 1.2s;
           animation-duration: 1.2s;
@@ -46,7 +38,7 @@ a:hover {
   min-width: 100%;
   min-height: 100%;
   height: 100vh;
-  background-image: url("http://www.lexikus.de/pics/manager/mittelalter/familienbad.jpg");
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/2/23/Bader.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
