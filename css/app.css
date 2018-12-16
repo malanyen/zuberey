@@ -15,3 +15,8 @@ text-align: left;
 .justify {
   text-align: justify;
 }
+
+@media (min-width: 768px) {
+  .masthead {
+    padding-top: 100px;
+  }
